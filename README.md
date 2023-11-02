@@ -14,8 +14,4 @@ Import app/data into database
 Visual Studio 2010
 MySql Server and Management Studio
 
-## Demo Link
-
-https://rahul-sabhajit.github.io/Campus-Information-System-CIS/
-
 # Campus-Information-System-CIS
